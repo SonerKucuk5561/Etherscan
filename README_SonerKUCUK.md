@@ -21,7 +21,7 @@ Used Github for upload the project
 Launch:
 
 Base Page: There is page factory for initializing the elements.
-Etherscan: There are locators for etherscan_step_Def.
+Etherscan: There are locators for etherscan_step_Def. 
 
 Etherscan_step_Def: There are implementations for etherscan feature
 Cukes Runner: For starting project you need to use cukes runner. 
